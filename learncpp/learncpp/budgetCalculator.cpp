@@ -32,7 +32,7 @@ double performOP(double a, double b, char operation)
 	if (operation == '+')
 	{
 		return a + b;
-	} 
+	}
 	else if (operation == '-')
 	{
 		return a - b;
@@ -69,12 +69,3 @@ int main()
 
 	return 0;
 }
-
-
-
-
-
-
-
-
-
